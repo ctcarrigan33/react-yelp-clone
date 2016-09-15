@@ -62,7 +62,7 @@
   "dependencies": {
     "classnames": "^2.2.5",
     "dotenv": "^2.0.0",
-    "font-awesome": "^4.6.1",
+    "font-awesome": "^4.6.3",
     "google-maps-react": "^1.0.13",
     "hjs-webpack": "^8.3.0",
     "npm": "^3.10.7",
